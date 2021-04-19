@@ -1,4 +1,5 @@
 ### Contains 4 different files for each of the processes, data cleaning 1, data cleaning 2, EDA and Modelling and evaluated
+### Article of the findings, can be found in my blog here ---> https://hkampadu.wordpress.com/2020/11/06/when-is-energy-consumption-at-its-lowest/
 ## Aim: To develop predictive models in metered building energy usage(How much energy will a building consume?)
 ## Objectives: To use the models built to check how much energy a building uses based on previous energy efficient improvements.
 ## Business Understanding: 1. With better estimates of these energy-saving investments, large scale investors and financial institutions will be more inclined to invest in this ## area to enable progress in building efficiencies
