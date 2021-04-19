@@ -2,5 +2,4 @@
 ## Stop words removal, lemmitization of the words, TfidfVectorizer applied and evaluated using the different variants of Naive bayes
 ### Model deployed using a simple flask app
 
-![Optional Text](../master/Data-Analytics-and-Machine-Learning/spam-classifier/Screenshot (810).png)
-![Optional Text](../master/Data-Analytics-and-Machine-Learning/spam-classifier/Screenshot (811).png)
+- `raw.https://github.com/JoAmps/Data-Analytics-and-Machine-Learning/blob/main/spam-classifier/Screenshot%20(811).png
